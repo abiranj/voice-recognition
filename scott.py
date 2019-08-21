@@ -21,7 +21,7 @@ def mycommand():
 
         try:
             command = r.recognize_google(audio)
-            print('you said :' + command + '/n')
+            print('you said :' + command + '\n')
 
         except sr.UnknownValueError:
             assistant(mycommand())
