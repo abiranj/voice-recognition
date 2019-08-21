@@ -2,6 +2,10 @@
   <dictionary name="srf">
     <words>
       <w>gitignore</w>
+      <w>mycommand</w>
+      <w>pyaudio</w>
+      <w>reddit</w>
+      <w>talktome</w>
     </words>
   </dictionary>
 </component>
